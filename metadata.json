@@ -1,0 +1,6 @@
+{
+  "name": "BRIGCOMM Daily Quota Tracker",
+  "description": "Tactical Brigade Command Daily Quota, Battalion Reports, Individual & Battalion Analytics, and Discord Shift Summary Generator",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
